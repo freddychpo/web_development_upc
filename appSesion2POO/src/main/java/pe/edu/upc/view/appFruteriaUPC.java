@@ -8,10 +8,10 @@ public class appFruteriaUPC {
 	public static void main(String[] args) {
 		Fruta objFruta = 
 				new Fruta("Mango", "Amarillo", "Dulce");
-		System.out.printIn(objFruta.toString());
+		System.out.println(objFruta.toString());
 		
 		Fruta.LugarOrigen = "Otro lugar";
-		System.out.printIn(Fruta.LugarOrigen);
+		System.out.println(Fruta.LugarOrigen);
 	}
 
 }

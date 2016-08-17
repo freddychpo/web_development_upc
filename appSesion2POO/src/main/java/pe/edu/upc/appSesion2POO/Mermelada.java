@@ -5,8 +5,8 @@ public class Mermelada extends Fruta{
 	private int duracionDias;
 	private String tipoEnvase;
 	
-	public string prepararMermelada(){
-		return ("Preparando meremelada con alegria: " + this.getNombre());
+	public String prepararMermelada(){
+		return ("Preparando meremelada con alegria sadasdadasd: " + this.getNombre());
 	}
 
 	public Mermelada(String nombre, String color, String sabor, int duracionDias, String tipoEnvase) {
