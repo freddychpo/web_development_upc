@@ -1,0 +1,10 @@
+D:\MUSICA\Documents\Visual Studio 2010\Projects\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+D:\MUSICA\Documents\Visual Studio 2010\Projects\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\MUSICA\Documents\Visual Studio 2010\Projects\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\MUSICA\Documents\Visual Studio 2010\Projects\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.dll
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.csprojResolveAssemblyReference.cache
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\UPC\2018-1\GitHub Desktop\AplicacionWeb\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
